@@ -16,6 +16,28 @@ This project focuses on analyzing and mitigating customer churn in the banking i
 ## Dataset
 Link : https://mavenanalytics.io/data-playground/bank-customer-churn
 
+## Data Dictionary
+## Dataset Description
+
+| Column Name      | Description                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| CustomerId       | A unique identifier for each customer                                       |
+| Surname          | The customer's last name                                                    |
+| CreditScore      | A numerical value representing the customer's credit score                  |
+| Geography        | The country where the customer resides (France, Spain, or Germany)          |
+| Gender           | The customer's gender (Male or Female)                                      |
+| Age              | The customer's age                                                          |
+| Tenure           | The number of years the customer has been with the bank                     |
+| Balance          | The customer's account balance                                              |
+| NumOfProducts    | The number of bank products the customer uses (e.g., savings, credit card)  |
+| HasCrCard        | Whether the customer has a credit card (1 = Yes, 0 = No)                    |
+| IsActiveMember   | Whether the customer is an active member (1 = Yes, 0 = No)                  |
+| EstimatedSalary  | The estimated salary of the customer                                        |
+| Exited           | Whether the customer has churned (1 = Yes, 0 = No)                          |
+
+
+
+
 ## Tools
 - Power BI
 
