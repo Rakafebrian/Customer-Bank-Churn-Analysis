@@ -46,7 +46,9 @@ The Dashboard Shows :
 - Key performance indicators: total customers, retained, churned, churn rate.
 - Customer distribution based on: credit card ownership, membership status, gender, geographic location, tenure.
 - Churn rate based on: number of products, balance, age, geographic location, membership status, credit score, tenure.
-
+![Dashboard](Dashboard1.png)
+![Dashboard](Dashboard2.png)
+![Dashboard](Dashboard3.png)
 ## Insight and Key Findings
 Insight Based on : 
 **Age**
