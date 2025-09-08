@@ -94,3 +94,9 @@ Insight Based on :
 ## Conclusion
 Analysis of bank customer churn shows that churn rates are influenced by various demographic and financial factors. Customers most at risk of churn are those from Germany, aged 41–60, inactive, with only one product, a medium balance (100K–200K), and relatively new membership (<3 years). Conversely, customers with high credit scores, large balances, long membership periods, and diverse product ownership tend to be more loyal. Gender and credit card ownership do not have a significant effect on churn. These findings emphasize the importance of more targeted retention strategies, particularly for new, inactive, and German customers, as well as the need for engagement programs that can increase loyalty through product diversification and service adjustments tailored to age-specific needs. By leveraging these insights, banks can reduce churn, improve retention, and maintain long-term revenue stability.
 
+## Key Analysis Achievements
+1. Data preprocessing: Data is cleaned and processed to ensure accurate results.
+2. Comprehensive churn analysis: Explains the main factors causing churn.
+3. Churn KPIs: Created with DAX → facilitates monitoring (total customers, churned, retained, churn rate).
+4. Interactive slicer: Enables exploration of demographic and financial data combinations.
+
