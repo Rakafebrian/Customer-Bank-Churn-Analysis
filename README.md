@@ -17,7 +17,7 @@ This project focuses on analyzing and mitigating customer churn in the banking i
 Link : https://mavenanalytics.io/data-playground/bank-customer-churn
 
 ## Data Dictionary
-## Dataset Description
+## Dataset Dictionary
 
 | Column Name      | Description                                                                 |
 |------------------|-----------------------------------------------------------------------------|
